@@ -1,2 +1,2 @@
 # sexpr_matcher
-Generic structural pattern matching
+Structural pattern matching macro for S-Expressions and other list-like data structures

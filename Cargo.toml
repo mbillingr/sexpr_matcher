@@ -1,0 +1,13 @@
+[package]
+name = "sexpr_matcher"
+version = "0.1.0"
+authors = ["Martin Billinger <flkazemakase@gmail.com>"]
+license = "MIT/Apache-2.0"
+repository = "https://github.com/mbillingr/sexpr_parser"
+description = "Structural pattern matching macro for S-Expressions and other list-like data structures"
+readme = "README.md"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
